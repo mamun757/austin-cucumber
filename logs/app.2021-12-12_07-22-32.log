@@ -1,0 +1,75 @@
+2021-12-12 19:22:32.791 [main][1820] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+2021-12-12 19:22:32.791 [main][1820] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+2021-12-12 19:22:32.791 [main][1820] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+2021-12-12 19:22:32.791 [main][1820] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1a2bcd56
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 11
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @75c56eb9
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 2076180480 bytes (maybe)
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\13474\AppData\Local\Temp (java.io.tmpdir)
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2021-12-12 19:22:32.807 [main][1836] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+2021-12-12 19:22:32.822 [main][1851] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+2021-12-12 19:22:32.822 [main][1851] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2021-12-12 19:22:32.822 [main][1851] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+2021-12-12 19:22:32.822 [main][1851] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2021-12-12 19:22:32.822 [main][1851] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+2021-12-12 19:22:32.838 [main][1867] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2021-12-12 19:22:32.838 [main][1867] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2021-12-12 19:22:32.853 [main][1882] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2021-12-12 19:22:32.853 [main][1882] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2021-12-12 19:22:32.869 [main][1898] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+2021-12-12 19:22:32.885 [main][1914] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+2021-12-12 19:22:32.885 [main][1914] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+2021-12-12 19:22:32.934 [main][1963] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2021-12-12 19:22:32.951 [main][1980] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+2021-12-12 19:22:32.951 [main][1980] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+2021-12-12 19:22:32.951 [main][1980] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2021-12-12 19:22:33.757 [Forwarding newSession on session null to remote][2786] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 20360 (auto-detected)
+2021-12-12 19:22:33.757 [Forwarding newSession on session null to remote][2786] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+2021-12-12 19:22:33.757 [Forwarding newSession on session null to remote][2786] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+2021-12-12 19:22:33.843 [Forwarding newSession on session null to remote][2872] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2021-12-12 19:22:33.851 [Forwarding newSession on session null to remote][2880] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2021-12-12 19:22:33.931 [Forwarding newSession on session null to remote][2960] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: e0:2b:e9:ff:fe:41:7e:9a (auto-detected)
+2021-12-12 19:22:33.991 [AsyncHttpClient-1-2][3020] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+2021-12-12 19:22:33.991 [AsyncHttpClient-1-2][3020] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+2021-12-12 19:22:33.991 [AsyncHttpClient-1-2][3020] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5e241370
+2021-12-12 19:22:34.010 [AsyncHttpClient-1-2][3039] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2021-12-12 19:22:34.010 [AsyncHttpClient-1-2][3039] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2021-12-12 19:22:34.010 [AsyncHttpClient-1-2][3039] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+2021-12-12 19:22:34.010 [AsyncHttpClient-1-2][3039] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+2021-12-12 19:22:34.010 [AsyncHttpClient-1-2][3039] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+2021-12-12 19:22:34.879 [AsyncHttpClient-1-2][3908] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+2021-12-12 19:22:35.123 [main][4152] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xf9cf446b62c1b1f7
+2021-12-12 19:22:35.223 [main][4252] INFO  step_definitions.Hooks - Browser opens as expected
+2021-12-12 19:22:37.942 [main][6971] INFO  step_definitions.MortgageCalculatorSteps - Mortgage Calculator Home Page opens
+2021-12-12 19:22:37.950 [main][6979] DEBUG page_objects.NavigationBar - Mouse hover to Rates Link
+2021-12-12 19:22:38.141 [main][7170] DEBUG page_objects.NavigationBar - Navigating to Real Apr Link
+2021-12-12 19:22:39.829 [main][8858] INFO  step_definitions.MortgageCalculatorSteps - Navigate to real apr page
+2021-12-12 19:22:39.830 [main][8859] DEBUG page_objects.RealApr - Home value is: 200000
+2021-12-12 19:22:40.244 [main][9273] DEBUG page_objects.RealApr - Clicking on Dollar Button
+2021-12-12 19:22:40.525 [main][9554] DEBUG page_objects.RealApr - Down Payment is: 15000
+2021-12-12 19:22:40.805 [main][9834] DEBUG page_objects.RealApr - Interest Rate is: 3
+2021-12-12 19:22:41.093 [main][10122] DEBUG page_objects.RealApr - Clicking on Calculate Button
+2021-12-12 19:22:42.169 [main][11198] INFO  step_definitions.MortgageCalculatorSteps - click on calculate button upon entering the data
+2021-12-12 19:22:42.169 [main][11198] DEBUG page_objects.RealApr - Validate the real apr is: 3.130%
+2021-12-12 19:22:42.346 [main][11375] INFO  step_definitions.MortgageCalculatorSteps - validate the actual real apr rate
+2021-12-12 19:22:43.071 [main][12100] INFO  step_definitions.Hooks - Browser close as expected
