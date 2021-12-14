@@ -8,7 +8,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/Features",
         glue ={"step_definitions"},
-        plugin = {"pretty","summary","json:target/cucumber.json"}
+        plugin = {"pretty","summary","json:target/cucumber.json"},
+        tags = "@calculateApr"
 
 
 )
